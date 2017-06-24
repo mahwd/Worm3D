@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3c3d0e24f8e12b642af8f098a11f515d
+timeCreated: 1497504852
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Acidic
+  fontNames:
+  - Acidic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fef4b7b67acae484caca58b151533935
+timeCreated: 1497507173
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aracne
+  fontNames:
+  - Aracne
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d15349041067d7e40b8e5a013dc8104c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
